@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Auth0 Vulnerability!");
+            Console.WriteLine("Hello Auth0 Vulnerability with Actions!");
         }
     }
 }
