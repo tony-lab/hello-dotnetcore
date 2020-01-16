@@ -11,6 +11,11 @@ namespace ConsoleApp1
             } finally{
                 Console.WriteLine("finally...");
             } 
+            try{
+                Console.WriteLine("try 2...");
+            } finally{
+                Console.WriteLine("finally...");
+            } 
             Console.WriteLine("Hello Auth0 Vulnerability with Actions!");
         }
     }
