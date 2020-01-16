@@ -2,13 +2,17 @@
 
 namespace ConsoleApp1
 {
+    public class Person
+    {
+        public string Fullname { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
         {
-            var obj = null;
-            System.Console.WriteLine(obj.ToString());
-            
+            Person tony = null;
+            System.Console.WriteLine(tony.ToString());
+
             try{
                 Console.WriteLine("try...");
             } finally{
