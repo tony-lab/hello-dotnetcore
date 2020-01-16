@@ -6,13 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            var flag = true;
-            if (flag) {
-                System.Console.WriteLine("flag is true");
-            }
-            else{
-                System.Console.WriteLine("flag is false.");
-            }
+            var obj = null;
+            System.Console.WriteLine(obj.ToString());
+            
             try{
                 Console.WriteLine("try...");
             } finally{
