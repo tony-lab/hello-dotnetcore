@@ -6,16 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            try{
-                Console.WriteLine("try...");
-            } finally{
-                Console.WriteLine("finally...");
-            } 
-            try{
-                Console.WriteLine("try 2...");
-            } finally{
-                Console.WriteLine("finally...");
-            } 
+            // fixing bug 12345
             Console.WriteLine("Hello Auth0 Vulnerability with Actions!");
         }
     }
