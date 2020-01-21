@@ -7,6 +7,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             // fixing bug 12345
+            // commit without GPG signing
             Console.WriteLine("Hello Auth0 Vulnerability with Actions!");
         }
     }
