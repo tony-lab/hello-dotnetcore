@@ -6,6 +6,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            var object = null;
+            System.Console.WriteLine(object.ToString());
             // fixing bug 12345
             // commit without GPG signing, even administrator
             // from git tower
