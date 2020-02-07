@@ -28,6 +28,9 @@ namespace ConsoleApp1
 ```
 - Commit and creat new PR
 - Review [this PR](https://github.com/tony-lab/hello-dotnetcore/pull/4)
+  - Queries database
+  - Query Console
+  - [CodeQL repo](https://github.com/semmle/ql)
 - if we still have time, then let's review [LGTM: apache/acivemq](https://lgtm.com/projects/g/apache/activemq?mode=list)
   - Show Paths
   - CodeQL Query Console
