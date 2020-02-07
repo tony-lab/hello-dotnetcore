@@ -8,8 +8,8 @@
             Person tony = null;
             System.Console.WriteLine(tony.ToString());
 ```
-2. Commit and PR
-3. Review PR
+2. Commit and creat new PR
+3. Review [this PR](https://github.com/tony-lab/hello-dotnetcore/pull/4)
 4. [LGTM: apache/acivemq](https://lgtm.com/projects/g/apache/activemq?mode=list)
   - Show Paths
   - CodeQL Query Console
