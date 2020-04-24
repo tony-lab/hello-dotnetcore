@@ -32,6 +32,7 @@ namespace ConsoleApp1
   - [supported programming languages](https://help.semmle.com/lgtm-enterprise/admin/help/sys-requirements/language-support.html)
   - Query Console
   - [CodeQL repo](https://github.com/semmle/ql)
+  - [SQL Injection](https://help.semmle.com/wiki/display/JAVA/Query+built+from+user-controlled+sources)
 - if we still have time, then let's review [LGTM: apache/acivemq](https://lgtm.com/projects/g/apache/activemq?mode=list)
   - Show Paths
   - CodeQL Query Console
