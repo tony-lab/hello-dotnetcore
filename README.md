@@ -1,3 +1,6 @@
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/tony-lab/hello-dotnetcore.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/tony-lab/hello-dotnetcore/alerts/)
+
+
 # Automated Code Scanning Demonstration
 - [LGTM for OSS](https://github.com/marketplace/lgtm)
 - Branch out for 
