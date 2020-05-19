@@ -1,0 +1,10 @@
+id: repo_base_labels
+name: Repos have the base set of issue labels
+for: repositories
+ensure: 
+  labels:
+    nodes:
+      required: 
+        - name: bug
+          description: Something isn't working
+          color: d73a4a
