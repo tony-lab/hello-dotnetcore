@@ -33,6 +33,9 @@ jobs:
 
       # ℹ️ Command-line programs to run using the OS shell.
       # 📚 https://git.io/JvXDl
+      - name: list content
+        run: |
+          ls -lash /home/runner/work/hello-dotnetcore/codeql_databases/csharp
 
       # ✏️ If the Autobuild fails above, remove it and uncomment the following
       #    three lines and modify them (or add more) to build your code if your
