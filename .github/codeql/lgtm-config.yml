@@ -1,0 +1,11 @@
+name: "All the goodness from lgtm.com"
+
+disable-default-queries: false
+
+queries:
+  - name: Queries from lgtm.com (csharp)
+    uses: ./csharp-lgtm.qls
+
+paths-ignore:
+  - src
+  - lib
