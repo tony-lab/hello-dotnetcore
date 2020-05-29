@@ -39,7 +39,7 @@ jobs:
       #    project uses a compiled language
       - name: Upgrade CodeQL database
         run: |
-          codeql database upgrade ../codeql_databases/csharp
+          /opt/hostedtoolcache/CodeQL/1.0.0/x64/codeql/codeql database upgrade ../codeql_databases/csharp
       #   make bootstrap
       #   make release
 
