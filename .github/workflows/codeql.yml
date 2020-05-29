@@ -23,7 +23,7 @@ jobs:
         uses: github/codeql-action/init@v1
         # Override language selection by uncommenting this and choosing your languages
         with:
-          config-file: ./.github/codeql/lgtm-config.yml
+        #   config-file: ./.github/codeql/lgtm-config.yml
           languages: csharp
 
       # Autobuild attempts to build any compiled languages (C/C++, C#, or Java).
