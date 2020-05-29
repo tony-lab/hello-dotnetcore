@@ -3,7 +3,7 @@
 
 # Automated Code Scanning Demonstration
 - [LGTM for OSS](https://github.com/marketplace/lgtm)
-- Branch out for 
+- Edit [Program.cs](https://github.com/tony-lab/hello-dotnetcore/edit/master/ConsoleApp1/Program.cs) with below content,
 ```
 using System;
 
