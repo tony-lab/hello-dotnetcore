@@ -4,4 +4,4 @@ disable-default-queries: false
 
 queries:
   - name: Queries from lgtm.com (csharp)
-    uses: github/codeql/csharp/ql/src/codeql-suites/csharp-lgtm-full.qls@lgtm.com
+    uses: ./csharp-lgtm.qls
