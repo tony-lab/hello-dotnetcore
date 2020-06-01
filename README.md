@@ -32,7 +32,7 @@ namespace ConsoleApp1
 }
 ```
 - Commit and creat new PR
-- Review [this PR](https://github.com/tony-lab/hello-dotnetcore/pull/4)
+- Review [this LGTM PR](https://github.com/tony-lab/hello-dotnetcore/pull/4) | [CodeQL Action PR](https://github.com/tony-lab/hello-dotnetcore/pull/41)
   - Queries database
   - [supported programming languages](https://help.semmle.com/lgtm-enterprise/admin/help/sys-requirements/language-support.html)
   - Query Console
