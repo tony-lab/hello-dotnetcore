@@ -3,6 +3,8 @@
 
 # Automated Code Scanning Demonstration
 - [LGTM for OSS](https://github.com/marketplace/lgtm)
+- walk through [CodeQL Action](https://github.com/tony-lab/hello-dotnetcore/blob/master/.github/workflows/codeql.yml)
+- walk through [CodeQL config](https://github.com/tony-lab/hello-dotnetcore/blob/master/.github/codeql/lgtm-config.yml)
 - Edit [Program.cs](https://github.com/tony-lab/hello-dotnetcore/edit/master/ConsoleApp1/Program.cs) with below content,
 ```
 using System;
