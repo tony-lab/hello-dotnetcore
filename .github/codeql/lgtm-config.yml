@@ -3,7 +3,7 @@ name: "All the goodness from lgtm.com"
 disable-default-queries: false
 
 queries:
-  - name: Queries from lgtm.com (csharp I)
+  - name:       Queries from lgtm.com (csharp I)
     uses: ./csharp-lgtm.qls
   - name: Queries from lgtm.com (csharp II)
     uses: ./csharp-code-scanning.qls
