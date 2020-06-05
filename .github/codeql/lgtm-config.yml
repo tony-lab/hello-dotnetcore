@@ -4,4 +4,4 @@ disable-default-queries: true
 
 queries:
   - name: Queries from lgtm.com (csharp I)
-    uses: ./csharp-lgtm.qls
+    uses: security-and-quality
