@@ -41,3 +41,7 @@ namespace ConsoleApp1
 - if we still have time, then let's review [LGTM: apache/acivemq](https://lgtm.com/projects/g/apache/activemq?mode=list)
   - Show Paths
   - CodeQL Query Console
+
+----
+
+![workflow](https://user-images.githubusercontent.com/6351798/48032310-63842400-e114-11e8-8db0-06dc0504dcb5.png)
